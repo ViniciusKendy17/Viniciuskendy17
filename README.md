@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi guys, i'm Vinicius kendy, I hope you find something that insterst you 👋
 
 <!--
 **ViniciusKendy17/Viniciuskendy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
