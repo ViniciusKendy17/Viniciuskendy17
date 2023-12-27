@@ -1,4 +1,5 @@
-### hi guys, i'm Vinicius kendy, I hope you find something that interest you 👋
+
+<center><h2> hi guys, i'm Vinicius kendy, I hope you find something that interest you 👋</h2> </center>
 <br>
 <div>
   <img  height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Viniciuskendy17&show_icons=true&theme=tokyonight"> 
