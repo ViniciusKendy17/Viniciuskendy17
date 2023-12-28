@@ -25,5 +25,3 @@
 
 
 
-
-![snake gif](https://github.com/ViniciusKendy17/ViniciusKendy17/blob/output/github-contribution-grid-snake.gif)
