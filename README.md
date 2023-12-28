@@ -22,3 +22,4 @@
 
 <br>
  
+![Snake animation](https://github.com/ViniciusKendy17/ViniciusKendy17/blob/output/github-contribution-grid-snake.svg)
