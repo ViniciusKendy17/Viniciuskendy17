@@ -20,6 +20,10 @@
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-<br>
+
+
+
+
+
 
 ![snake gif](https://github.com/ViniciusKendy17/ViniciusKendy17/blob/output/github-contribution-grid-snake.gif)
