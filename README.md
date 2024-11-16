@@ -1,5 +1,5 @@
 
-<h2 align = "center" > hi guys, i'm <a href = "https://www.linkedin.com/in/vinicius-k-020928270/" >Vinicius kendy</a>, I want to become a dotnet developer in the future, then i will be sharing a lot of my personal projects from the simpler to the more complex one here. I hope you find something that really interest you all 😊 </h2>
+<h2 align = "center" > hi guys, i'm <a href = "https://www.linkedin.com/in/vinicius-k-020928270/" >Vinicius kendy</a>,I am currently a FRC competitor and i really like web development and robots  </h2>
 <br>
 <div align = "center" >
   <img  height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Viniciuskendy17&show_icons=true&theme=tokyonight&hide_border=true&title_color=d765d0&icon_color=d765d0"> 
