@@ -3,16 +3,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&width=435&lines=Hi+guys;I'm+Vinicius+Kendy+" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align = "center"  > I am a Web and Robot developer in FRC  </h3>
+<h3 align = "center"  > I am a Web developer and competitor in FRC  </h3>
 
 <br>
 
 <div align = "center" >
-
-I´m currently learning how to use **Swerve** for FRC, PathPlanner and C++ for Embedded systems
-
+  
+I´m currently learning how to use **Swerve** for FRC, **PathPlanner** and **C++** for Embedded systems
 </div>
 
+
+<br>
 <br>
 
 <div align = "center" >
