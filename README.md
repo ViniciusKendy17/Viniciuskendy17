@@ -1,6 +1,12 @@
 
-<h2 align = "center" > hi guys, i'm <a href = "https://www.linkedin.com/in/vinicius-k-020928270/" >Vinicius kendy</a>, I am currently a FRC competitor and i really like web development and robots  </h2>
-<br>
+<h1 align = "center"  >
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+guys;I'm+Vinicius+Kendy+" alt="Typing SVG" />
+</a>
+</h1>
+
+<h2 align = "center" > I am currently a FRC competitor and i really like web development and robots  </h2>
+
 <div align = "center" >
   <img  height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Viniciuskendy17&show_icons=true&theme=tokyonight&hide_border=true&title_color=d765d0&icon_color=d765d0"> 
   <img height = "180em" width = "400em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKendy17&layout=compact&theme=tokyonight&hide_border=true&title_color=d765d0" />
