@@ -1,6 +1,6 @@
 
 <h1 align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=300&pause=100&center=true&width=435&lines=Hi+guys 👋;I'm+Vinicius+Kendy+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=435&lines=Hi+guys 👋;I'm+Vinicius+Kendy+" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align = "center"  > I am a Web developer and competitor in FRC  </h3>
