@@ -28,7 +28,6 @@
   <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
   <img align="center"  height="55" width="55" src="https://images.squarespace-cdn.com/content/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png?content-type=image%2Fpng">
   <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg">
-  <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
