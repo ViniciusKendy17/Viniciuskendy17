@@ -1,12 +1,12 @@
 
 
-<h3 align = "center"  > I am a Web developer, World Skills competitor and ex-FRC  </h3>
+<h2 align = "center"  > I am a Web developer, World Skills competitor and ex-FRC  </h2>
 
 <br>
 
 <div align = "center" >
   
- 🔎 I´m currently training to compete on August for World Skills
+### 🔎 I´m currently training to compete on August for World Skills
 </div>
 
 <br>
