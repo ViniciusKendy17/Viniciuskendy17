@@ -6,7 +6,7 @@
 
 <div align = "center" >
   
-### 🔎 I´m currently training to compete on August for World Skills
+### 🔎 I´m currently training to compete on August for World Skills as a web developer. <br>To see a little bit more about me, [Click here](https://viniciuskendy17.github.io/) 
 </div>
 
 <br>
@@ -23,11 +23,12 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
-  <img align="center"  height="55" width="55" src="https://images.squarespace-cdn.com/content/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png?content-type=image%2Fpng">
-  <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg">
+  <img align="center"  height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center"  height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
