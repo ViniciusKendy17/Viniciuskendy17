@@ -11,8 +11,6 @@
 </p>
 
 
-<br/>
-
 <h2 align="center">Main Techs</h2>
 
 <div align="center">
@@ -26,7 +24,9 @@
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
 
-![Snake animation](https://github.com/ViniciusKendy17/ViniciusKendy17/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ViniciusKendy17/Viniciuskendy17/output/snake.svg" alt="Snake animation" />
+</div>
 
 <h2 align="center">GitHub Activity</h2>
 
