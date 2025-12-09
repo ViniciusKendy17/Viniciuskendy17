@@ -6,7 +6,7 @@
 
 <div align = "center" >
   
-### 🔎 I´m currently training to compete on August for World Skills as a web developer. <br>To see a little bit more about me, [Click here](https://viniciuskendy17.github.io/) 
+### 🔎 I´m  World Skills #17 competitor. <br>To see a little bit more about me, [Click here](https://viniciuskendy17.github.io/) 
 </div>
 
 <br>
@@ -27,10 +27,7 @@
   <img align="center"  height="50" width="80" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center"  height="50" width="80" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
-  <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="60" width="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
 </div>
